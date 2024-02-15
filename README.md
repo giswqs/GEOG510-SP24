@@ -10,3 +10,9 @@ This is just a line.
 I would like to add some Roy.
 ![](https://media1.tenor.com/m/OlFuBA7nbToAAAAC/roy-kent-pink.gif)
 print("You just downloaded a super virus")
+
+
+This is shows perfectly how my computer acts every time I code.
+
+
+![gif](https://i.gifer.com/embedded/download/B6lo.gif)
