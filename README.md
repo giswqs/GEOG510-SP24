@@ -12,7 +12,6 @@ I would like to add some Roy.
 print("You just downloaded a super virus")
 
 
-This is shows perfectly how my computer acts every time I code.
-
+This perfectly shows my average coding experience
 
 ![gif](https://i.gifer.com/embedded/download/B6lo.gif)
