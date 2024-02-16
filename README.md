@@ -18,3 +18,6 @@ print("You just downloaded a super virus")
 This perfectly shows my average coding experience
 
 ![gif](https://i.gifer.com/embedded/download/B6lo.gif)
+
+This is Yuze Li, in GEOG 422 class.
+
