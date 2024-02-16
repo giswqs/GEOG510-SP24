@@ -17,4 +17,4 @@ print("You just downloaded a super virus")
 
 This perfectly shows my average coding experience
 
-![gif](https://i.gifer.com/embedded/download/B6lo.gif)
+![gif](https://i.imgur.com/1yEp3rx.gif)
